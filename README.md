@@ -1,7 +1,5 @@
 <center><h2>Sejam bem-vindos ao Github da engiot.tech !!! </h2></center>
 
-## Projetos
-
 ## Tecnologias
 
 <div align="center">
