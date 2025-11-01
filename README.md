@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="mailto:engiot.tech@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=D14836&logo=gmail&logoColor=white&link=engiot.tech@gmail.com" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=D14836&logo=gmail&logoColor=white alt="Gmail"/></a>
   
   <a href="www.youtube.com/@engiottech" title="YouTube">
   <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@engiottech" alt="YouTube"/></a>
