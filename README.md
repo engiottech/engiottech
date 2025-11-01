@@ -45,7 +45,7 @@
 
 
 <a href="www.instagram.com/engiot.tech/" alt="Instagram" target="www.instagram.com/engiot.tech/">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/engiot.tech/">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white">
 </a>
 
 <!--
