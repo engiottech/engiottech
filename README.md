@@ -41,6 +41,10 @@
   <a href="https://github.com/engiottech" title="GitHub">
   <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/engiottech" alt="GitHub"/></a>
 
+  <a href="www.instagram.com/engiot.tech/" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/engiot.tech/">
+</a>
+
 </p>
 
 
