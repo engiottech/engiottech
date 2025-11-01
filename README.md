@@ -1,7 +1,6 @@
-<h1 align="center">Github da engiot.tech !!! </h1>
+<h1 align="center">Github - @engiot.tech</h1>
 
-<p align="left">
-  Aqui você vai encontrar os repositórios dos projetos que desenvolvemos sobre temas relacionados a:
+ Aqui você vai encontrar os repositórios dos projetos que desenvolvemos sobre temas relacionados a:
 
 * Engenharia
 * Tecnologia
@@ -31,22 +30,17 @@
 <p align="center">
   <a href="mailto:engiot.tech@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=D14836&logo=gmail&logoColor=white&link=mailto:engiot.tech@gmail.com" alt="Gmail"/></a>
-  
-  <a href="www.youtube.com/@engiottech" title="YouTube">
-  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=www.youtube.com/@engiottech" alt="YouTube"/></a>
-  
-  <a href="www.instagram.com/engiot.tech/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/engiot.tech/" alt="Instagram"/></a>
+
+  <a href="https://www.youtube.com/@engiottech" alt="YouTube" target="_blank">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/@engiottech"></a>
+
+  <a href="https://www.instagram.com/engiot.tech" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/engiot.tech"></a>
 
   <a href="https://github.com/engiottech" title="GitHub">
   <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/engiottech" alt="GitHub"/></a>
 
 </p>
-
-
-<a href="www.instagram.com/engiot.tech/" alt="Instagram" target="www.instagram.com/engiot.tech/">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white">
-</a>
 
 <!--
 **engiottech/engiottech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -78,7 +72,3 @@ https://github.com/anuraghazra/github-readme-stats
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 -->
-
-
-
-
