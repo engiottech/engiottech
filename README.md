@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=D14836&logo=gmail&logoColor=white&link=mailto:engiot.tech@gmail.com" alt="Gmail"/></a>
   
   <a href="www.youtube.com/@engiottech" title="YouTube">
-  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@engiottech" alt="YouTube"/></a>
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt="YouTube"/></a>
   
   <a href="www.instagram.com/engiot.tech/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/engiot.tech/" alt="Instagram"/></a>
